@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 ,Somov Tv
+http://172.20.2.5:8082/SOMOY-NEWS/index.m3u8
+#EXTINF:-1 ,DBC News
+http://172.20.2.5:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 ,Jalsha Movies
+http://172.20.2.5:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
